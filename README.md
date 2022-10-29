@@ -1,33 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@looktskywqwew 
-looktskywqwew
-/
-netlify
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-netlify/yinsi_e
-@looktskywqwew
-looktskywqwew Create yinsi_e
-Latest commit 6495fec now
- History
- 1 contributor
-30 lines (30 sloc)  5.95 KB
-
-#Baby Growth Record Privacy Policy
+# Baby Growth Record Privacy Policy
 ##This application attaches great importance to the user privacy policy and strictly complies with relevant laws and regulations. Please read the Privacy Policy carefully before continuing to use it. If you continue to use our services, you have fully read and understood all the contents of our agreement.
 ##This app respects and protects the personal privacy of all users of the service. In order to provide you with more accurate and high-quality services, this app will use and disclose your personal information in accordance with the provisions of this privacy policy. Unless otherwise specified in this privacy policy, this app will not disclose such information to the public or provide it to a third party without your prior permission. This application will update this privacy policy from time to time. When you agree to this application service use agreement, you will be deemed to have agreed to all the contents of this privacy policy.
 ##1. Scope of application
@@ -57,18 +28,3 @@ Latest commit 6495fec now
 ##(b) The company reserves the right to modify this policy at any time, so please check it frequently. In case of any major change to this policy, the Company will notify it through website notification.
 ##Party A discloses its personal information, such as contact information or postal address. Please protect your personal information properly and provide it to others only when necessary. If you find that your personal information has been leaked, especially the user name and password of the application, please contact the customer service of the application immediately so that the application can take corresponding measures.
 ##Thank you for taking the time to understand our privacy policy! We will do our best to protect your personal information and legitimate rights and interests. Thank you again for your trust!
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-netlify/yinsi_e at main · looktskywqwew/netlify
